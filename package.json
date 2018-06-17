@@ -1,0 +1,19 @@
+{
+  "name": "loc-proc",
+  "version": "1.0.0",
+  "description": "Process LOC data for Markov generation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "markov-strings": "^1.5.0",
+    "xml-stream": "^0.4.5",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "xo": "^0.21.1"
+  }
+}
